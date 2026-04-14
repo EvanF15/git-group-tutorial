@@ -4,3 +4,6 @@ This is a new change from Julius Rosalin
 This is a new change from Evan Fretheim
 This is a new change from sheng huang
 
+This is a representation of an unfinished function a group member is working
+on.
+This is the changes made to this branch while you were working on rb-test
